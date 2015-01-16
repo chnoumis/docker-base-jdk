@@ -1,6 +1,8 @@
-FROM base:latest
+FROM chnoumis/base:latest
 
 MAINTAINER chnoumis <it@chnoumis.com>
+
+USER root
 
 # Install Java.
 RUN \

@@ -19,7 +19,3 @@ Both images are built on Docker HUB and available for immediate pull from the pu
 ### OpenJDK 7
 
     docker pull chnoumis/base-jdk:7
-    
-## Issues
-
-All issues should be reported in the [GitHub issue tracker](https://github.com/JBoss-Dockerfiles/base-jdk/issues).
