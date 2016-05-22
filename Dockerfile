@@ -1,4 +1,4 @@
-FROM chnoumis/base:2.0.0
+FROM chnoumis/base-sti:2.0.0
 
 MAINTAINER chnoumis
 
